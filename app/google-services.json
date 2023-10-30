@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "676934746869",
+    "firebase_url": "https://lincomm-49e23-default-rtdb.firebaseio.com",
+    "project_id": "lincomm-49e23",
+    "storage_bucket": "lincomm-49e23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676934746869:android:73ccdb63465c748466fbbc",
+        "android_client_info": {
+          "package_name": "space.ahmedsgk.lincomm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676934746869-u1q2uifm72ulccr1m8em7e87alcmvc15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "space.ahmedsgk.lincomm",
+            "certificate_hash": "8afd72ed7b3e45a634ab4b399d2a00d77319ab77"
+          }
+        },
+        {
+          "client_id": "676934746869-ativjlr5fdhn1k92vo1l74o2hmdsq5j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr5guA4IShoNsWiu0jpineEOVUNyUxsOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676934746869-ativjlr5fdhn1k92vo1l74o2hmdsq5j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
